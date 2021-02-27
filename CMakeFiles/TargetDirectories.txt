@@ -1,0 +1,3 @@
+/home/ugrad/abueide/trace/CMakeFiles/rebuild_cache.dir
+/home/ugrad/abueide/trace/CMakeFiles/edit_cache.dir
+/home/ugrad/abueide/trace/CMakeFiles/PrcessTrace.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/trace_c.dir/PrcessTrace.c.o  -o trace_c 
